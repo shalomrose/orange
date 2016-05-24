@@ -1,2 +1,3 @@
 config file
 add code and upload
+add patch word
