@@ -1,2 +1,3 @@
 hello dev
 new dev.txt
+master add some word
